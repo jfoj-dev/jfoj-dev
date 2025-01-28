@@ -30,5 +30,6 @@
   
 </div>
 
-![Snake animation]([https://github.com/jfoj-dev/jfoj-dev/blob/output/github-contribution-grid-snake.svg](https://github.com/jfoj-dev))
+![Snake animation](https://github.com/jfoj-365/jfoj-365/blob/output/github-contribution-grid-snake.svg)
+
 
