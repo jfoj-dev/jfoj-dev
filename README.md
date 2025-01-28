@@ -30,5 +30,5 @@
   
 </div>
 
-![Snake animation]jfoj-dev
+![Snake animation](https://github.com/jfoj-dev/jfoj-dev/blob/github-contribution-grid-snake.svg)
 
