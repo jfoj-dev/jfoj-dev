@@ -30,6 +30,4 @@
   
 </div>
 
-![Snake animation](https://github.com/jfoj-365/jfoj-365/blob/output/github-contribution-grid-snake.svg)
-
 
