@@ -1,8 +1,6 @@
 ## Olá, eu sou o Fernando Oliveira
 
-- 🔭 Hoje trabalho como Supervisor de TI
-- 🌱 Especializando-se em Desenvolvimento Web
-- 😄 Pronouns: ele/dele
+- Supervisor de TI
 
 <div>
   <a href="https://https://github.com/jfoj-dev">
