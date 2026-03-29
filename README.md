@@ -1,6 +1,6 @@
 ## Olá, eu sou o Fernando Oliveira
 
-- Supervisor de TI
+- Technology Supervisor · Systems & Integrations · Python · SQL · Power BI · Automações · APIs · AWS
 
 <div>
   <a href="https://https://github.com/jfoj-dev">
