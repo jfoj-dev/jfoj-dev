@@ -1,6 +1,6 @@
 ## Olá, eu sou o Fernando Oliveira
 
-- Technology Supervisor · Systems & Integrations · Python · SQL · Power BI · Automações · APIs · AWS
+Technology Supervisor · Systems & Integrations · Python · SQL · Power BI · Automações · APIs · AWS
 
 
 <div style="display: inline_block"><br>
